@@ -32,7 +32,7 @@
 
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
-| <a name="input_auth_token"></a> [auth\_token](#input\_auth\_token) | Yandex OAuth token | `string` | `"XXXXXXX"` | no |
+| <a name="input_auth_token"></a> [auth\_token](#input\_auth\_token) | Yandex OAuth token | `string` | `"XXXXXXXXXX"` | no |
 | <a name="input_cloud_id"></a> [cloud\_id](#input\_cloud\_id) | Yandex Cloud ID | `string` | `"b1gnn11476qh9v5sajs1"` | no |
 | <a name="input_folder_id"></a> [folder\_id](#input\_folder\_id) | Default folder ID | `string` | `"b1g0qk43ikvthopcg1r0"` | no |
 | <a name="input_zone"></a> [zone](#input\_zone) | Geo zone ID | `string` | `"ru-central1-a"` | no |
@@ -41,8 +41,8 @@
 
 | Name | Description |
 |------|-------------|
-| <a name="output_external_ip_address_vm_1"></a> [external\_ip\_address\_vm\_1](#output\_external\_ip\_address\_vm\_1) | n/a |
-| <a name="output_external_ip_address_vm_2"></a> [external\_ip\_address\_vm\_2](#output\_external\_ip\_address\_vm\_2) | n/a |
-| <a name="output_internal_ip_address_vm_1"></a> [internal\_ip\_address\_vm\_1](#output\_internal\_ip\_address\_vm\_1) | n/a |
-| <a name="output_internal_ip_address_vm_2"></a> [internal\_ip\_address\_vm\_2](#output\_internal\_ip\_address\_vm\_2) | n/a |
+| <a name="output_external_ip_address_vm_1"></a> [external\_ip\_address\_vm\_1](#output\_external\_ip\_address\_vm\_1) | External IP address of the first VM |
+| <a name="output_external_ip_address_vm_2"></a> [external\_ip\_address\_vm\_2](#output\_external\_ip\_address\_vm\_2) | External IP address of the second VM |
+| <a name="output_internal_ip_address_vm_1"></a> [internal\_ip\_address\_vm\_1](#output\_internal\_ip\_address\_vm\_1) | Internal IP address of the first VM |
+| <a name="output_internal_ip_address_vm_2"></a> [internal\_ip\_address\_vm\_2](#output\_internal\_ip\_address\_vm\_2) | Internal IP address of the second VM |
 <!-- END_TF_DOCS -->
