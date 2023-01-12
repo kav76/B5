@@ -35,8 +35,5 @@ No modules.
 
 ## Outputs
 
-| Name | Description |
-|------|-------------|
-| <a name="output_external_ip_address_vm"></a> [external\_ip\_address\_vm](#output\_external\_ip\_address\_vm) | n/a |
-| <a name="output_internal_ip_address_vm"></a> [internal\_ip\_address\_vm](#output\_internal\_ip\_address\_vm) | n/a |
+No outputs.
 <!-- END_TF_DOCS -->
